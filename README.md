@@ -1,4 +1,4 @@
-**English** | [中文](README_CN.md)
+**English** 
 
 <div align="center">
 <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fproduct%2F4716%2F471675%2FE40_1.jpg&refer=http%3A%2F%2Fimg.pconline.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1614598580&t=aff4e5811033d603c6e85bdb90faf155" width="350px">
